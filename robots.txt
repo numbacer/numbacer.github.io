@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://numbacer.github.io/sitemap.html.gz
+Sitemap: https://numbacer.github.io/app/sitemap.html.gz
+Sitemap: https://numbacer.github.io/assets/sitemap.html.gz
+Sitemap: https://numbacer.github.io/css/sitemap.html.gz
+Sitemap: https://numbacer.github.io/includes/sitemap.html.gz
+Sitemap: https://numbacer.github.io/item/sitemap.html.gz
+Sitemap: https://numbacer.github.io/src/sitemap.html.gz
